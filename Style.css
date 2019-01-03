@@ -1,0 +1,21 @@
+body {
+  background-color: #FFFFFF;
+  font-family: Arial;
+}
+
+h1{
+  color: #236B8E;
+  text-shadow: 1px 1px lightgray;
+  font-family: Arial;
+}
+
+h3{
+  color: #236B8E;
+  text-shadow: 1px 1px lightgray;
+  font-family: Arial;
+}
+
+/* Classe para borda redonda da imagem */
+.img-circle{
+border-radius: 50%;
+}
